@@ -1,0 +1,19 @@
+body {
+    background: linear-gradient(rgba(0,0,0,.5), rgba(119, 116, 116, 0.5));
+    height: 100vh;
+    background-size: cover;
+    background-position: center center;
+    position: relative;
+    background-attachment: fixed;
+}
+    
+.contenido-diferenciales{
+    width: 640px;
+    margin: 0 auto;
+}
+
+.lista-diferenciales{
+    width: 40%;
+    display: inline-block;
+    vertical-align: top;
+}
